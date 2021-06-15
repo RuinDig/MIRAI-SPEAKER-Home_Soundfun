@@ -16,3 +16,5 @@
 ![MIRAI-SPEAKER-Home_Soundfun_07](https://user-images.githubusercontent.com/20723919/120912735-b9eee000-c6cc-11eb-8e7b-42a64f4bb37e.jpg)
 
 ![MIRAI-SPEAKER-Home_Soundfun_08](https://user-images.githubusercontent.com/20723919/120912736-b9eee000-c6cc-11eb-99ad-4cf5fdb5a3e9.jpg)
+
+![MIRAI-SPEAKER-Home_Soundfun_09](https://user-images.githubusercontent.com/20723919/122038563-b2d47a00-ce10-11eb-9d78-017374a8e5c2.JPG)

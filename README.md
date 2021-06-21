@@ -20,5 +20,6 @@
 ![MIRAI-SPEAKER-Home_Soundfun_09](https://user-images.githubusercontent.com/20723919/122038563-b2d47a00-ce10-11eb-9d78-017374a8e5c2.JPG)
 
 # ミライスピーカーと一般的なスピーカーの音の伝わり方の違いを示す図
+
 ![MIRAI-SPEAKER-Home_Soundfun_10](https://user-images.githubusercontent.com/20723919/122665771-234e1300-d1e4-11eb-8c15-d1bfd4a21c2b.JPG)
 テレビやパソコンに搭載される一般的なスピーカーは距離が遠くになるにつれて音量が小さくなるが、ミライスピーカーは一定の距離まで同じ大きさの音を届けるようになっている。これにより、聴力が落ちた人に合わせてテレビやパソコンの音量を大きくする必要がなくなるとされている。
